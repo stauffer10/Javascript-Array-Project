@@ -1,5 +1,5 @@
 //Nathan Stauffer
-//236 Ewing Rd.
+//236 Ewing Rd
 //Youngstown, OH 44512
 //(330)-207-2637
 //nathanstauffer@gmail.com
