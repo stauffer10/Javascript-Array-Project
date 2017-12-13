@@ -1,1 +1,1 @@
-# JazzHR
+# Javascript DEMO program
