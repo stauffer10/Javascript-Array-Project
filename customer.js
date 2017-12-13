@@ -3,8 +3,8 @@
 //Youngstown, OH 44512
 //(330)-207-2637
 //nathanstauffer@gmail.com
-//JAVASCRIPT PROGRAM FOR JAZZHR
-//RUN IN BROWSER USING INCLUDED JAZZHR.HTML FILE
+//JAVASCRIPT PROGRAM TO ASSIGN FEATURE GROUPS TO CUSTOMERS FOR TESTING
+//RUN IN BROWSER USING INCLUDED CUSTOMER.HTML FILE
 
 //create array of objects to represent customers
 var customers = [
@@ -75,7 +75,7 @@ function assignGroups(customers, featureGroups){
 	}
 }
 
-//test in conssole. should have feature groups assigned
+//test in console. should have feature groups assigned
 assignGroups(customers, featureGroups);
 for (var i=0; i<customers.length; i++){
 	console.log(customers[i]);
